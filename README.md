@@ -20,6 +20,7 @@
 Como clonar o projeto
 
 ```bash
+https://github.com/RicardoAmorim2049/-Challenge-Amigo-secreto.git
 
 ```
 
